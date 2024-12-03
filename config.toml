@@ -1,0 +1,25 @@
+base_url = "https://jc2k.net"
+compile_sass = true
+build_search_index = true
+theme = "hallo"
+
+[markdown]
+highlight_code = true
+
+[extra]
+greeting = "Hello!"
+iam = "I am"
+links = [
+    { title = "Blog", url = "https://unrouted.net/", icon="rss", iconset = "solid" },
+    { title = "Bluesky", url = "https://bsky.app/profile/jc2k.net", icon="bluesky" },
+    { title = "GitHub", url = "https://github.com/jc2k", icon = "github" },
+]
+
+[extra.author]
+name = "Jc2k"
+
+[extra.theme]
+background = "#6FCDBD"
+foreground = "#FFF" # text and portrait border
+hover = "#333" # link hover
+
