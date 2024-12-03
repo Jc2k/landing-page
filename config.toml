@@ -10,7 +10,7 @@ highlight_code = true
 greeting = "Hello!"
 iam = "I am"
 links = [
-    { title = "Blog", url = "https://unrouted.net/", icon="rss", iconset = "solid" },
+    { title = "Blog", url = "https://unrouted.net/", icon="rss", iconset = "fa-solid" },
     { title = "Bluesky", url = "https://bsky.app/profile/jc2k.net", icon="bluesky" },
     { title = "GitHub", url = "https://github.com/jc2k", icon = "github" },
 ]
